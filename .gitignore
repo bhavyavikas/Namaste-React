@@ -1,0 +1,4 @@
+# things to ignore uploading ot git
+/node_modules
+/dist
+/.parcel-cache
